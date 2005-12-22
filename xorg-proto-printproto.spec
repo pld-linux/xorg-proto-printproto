@@ -5,8 +5,8 @@ Version:	1.0.3
 Release:	0.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC4/proto/printproto-%{version}.tar.bz2
-# Source0-md5:	c685f456391bd21d3089b736d17d7132
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/proto/printproto-X11R7.0-%{version}.tar.bz2
+# Source0-md5:	15c629a109b074d669886b1c6b7b319e
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
@@ -32,7 +32,7 @@ Print protocol and ancillary headers.
 Nag³ówki protoko³u Print i pomocnicze.
 
 %prep
-%setup -q -n printproto-%{version}
+%setup -q -n printproto-X11R7.0-%{version}
 
 %build
 %{__aclocal}
