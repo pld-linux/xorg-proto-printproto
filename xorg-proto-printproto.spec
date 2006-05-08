@@ -5,7 +5,7 @@ Version:	1.0.3
 Release:	1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/proto/printproto-X11R7.0-%{version}.tar.bz2
+Source0:	http://xorg.freedesktop.org/releases/individual/proto/printproto-%{version}.tar.bz2
 # Source0-md5:	15c629a109b074d669886b1c6b7b319e
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
