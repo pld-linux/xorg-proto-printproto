@@ -32,7 +32,7 @@ Print protocol and ancillary headers.
 Nag³ówki protoko³u Print i pomocnicze.
 
 %prep
-%setup -q -n printproto-X11R7.0-%{version}
+%setup -q -n printproto-%{version}
 
 %build
 %{__aclocal}
