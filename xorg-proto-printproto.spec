@@ -1,5 +1,5 @@
 Summary:	Print protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu Print i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu Print i pomocnicze
 Name:		xorg-proto-printproto
 Version:	1.0.3
 Release:	1
@@ -21,7 +21,7 @@ Nagłówki protokołu Print i pomocnicze.
 
 %package devel
 Summary:	Print protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu Print i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu Print i pomocnicze
 Group:		X11/Development/Libraries
 Requires:	xorg-proto-xproto-devel
 
