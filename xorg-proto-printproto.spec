@@ -1,12 +1,12 @@
 Summary:	Print protocol and ancillary headers
 Summary(pl.UTF-8):	Nagłówki protokołu Print i pomocnicze
 Name:		xorg-proto-printproto
-Version:	1.0.3
+Version:	1.0.4
 Release:	1
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/proto/printproto-%{version}.tar.bz2
-# Source0-md5:	0f4e7982c6d4ec3b2cf38502dd1293a3
+# Source0-md5:	7321847a60748b4d2f1fa16db4b6ede8
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
