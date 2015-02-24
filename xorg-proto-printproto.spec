@@ -2,7 +2,7 @@ Summary:	Xprint extension headers
 Summary(pl.UTF-8):	Pliki nagłówkowe rozszerzenia Xprint
 Name:		xorg-proto-printproto
 Version:	1.0.5
-Release:	1
+Release:	2
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/proto/printproto-%{version}.tar.bz2
